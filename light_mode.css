@@ -288,6 +288,7 @@ background-color:#3389C8;
     display:flex;
     gap: 1px;
     line-height: 1;
+    color:#fff;
 }
 .right ul{
     display:flex;
@@ -393,6 +394,7 @@ background-color:#3389C8;
 .one{
     display:flex;
     width:60%;
+    align-items: center;
     justify-content: space-between;
 }
 
